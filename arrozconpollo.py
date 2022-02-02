@@ -43,5 +43,5 @@ print("Comiendo... 99%")
 input("Pulse una tecla para continuar... ")
 
 print("Gracias por comerte tu arroz con pollo computarizado en Python.")
-print("Sígueme en Twitter: @yyyyyyllnnnnnn y espero no vomites tu comida.")
-exit()
+print("Sígueme en Twitter: @emlxya y chupame el pico.")
+    exit()
