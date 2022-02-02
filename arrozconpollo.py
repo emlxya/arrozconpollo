@@ -1,4 +1,4 @@
-print("Bienvenido al simulador de arroz con pollo creado por yll.")
+print("Bienvenido al simulador de arroz con pollo creado por emlxya.")
 input("Presiona enter para continuar: ")
 
 print("*Voy a la cocina*")
